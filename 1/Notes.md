@@ -10,6 +10,10 @@ Use `man` as prefix to any command for more information on it
 ```bash
 cd # change directory
 mv # move files
+ls # list files in the current directory
+ls -a # list files in the current directory (including hidden or dot files)
+ls -l # list files in the current directory in long mode
+ls -al # list files in the current directory, in long mode and hidden files shown
 pwd # present working directory: displays the directory you are in
 cat # concatenate: reads files sequentially and output them to standard output
 touch # create file or set permissions and access times of existing file
