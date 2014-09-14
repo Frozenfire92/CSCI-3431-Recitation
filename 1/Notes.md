@@ -1,7 +1,7 @@
 # CSCI 3431 - Operating Systems Recitation 1
 ### September 11 2014
 
-A collection of notes I took during the first recitation for students needing more help or who missed a something.
+A collection of notes I took during the first recitation for students needing more help or who missed something.
 
 ## Basic Command Line Maneuvering 
 
